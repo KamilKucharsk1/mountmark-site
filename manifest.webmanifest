@@ -1,0 +1,14 @@
+{
+  "name": "Mountmark",
+  "short_name": "Mountmark",
+  "description": "A 3D satellite globe and catalog of the mountains you have climbed.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090c10",
+  "theme_color": "#090c10",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "blaze.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
